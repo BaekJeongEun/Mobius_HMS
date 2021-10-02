@@ -1,3 +1,7 @@
+HMS2_face_recognition
+
+newHMS_Android (KETI Mobius2.0 IoT Contest)
+
 face_dataset2.py = 얼굴 사진 찍기(30장)//id 1 = taeyeon
 face_training.py = 찍어놓은 사진 학습하기
 face_recognition2.py = 얼굴 인식 완성 //id추가했으면 여기에 이름 추가하기

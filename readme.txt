@@ -15,5 +15,3 @@ tas_pir에 들어가서 node app.js를 실행시키면
 모션감지센서에서 감지된 동작의 날짜와 시간이 모비우스 웹포탈에 등록됩니다.
 
 
-![HMS_Mobius_ppt(최종)-01](https://user-images.githubusercontent.com/53815335/162928932-1c41626d-9c58-4604-aeb4-07b0ac9974ab.png)
-

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/overAll"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal|center_vertical"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/titleText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="DoorLock Control"
+        android:textColor="#000000"
+        android:textSize="70sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="15dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewData"
+        android:text="진행 상태"
+    ></TextView>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="30sp"
+        android:layout_marginBottom="15sp"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/doorlockImage"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            />
+
+        <TextView
+            android:id="@+id/tellingText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text=" "
+            android:textColor="#000000"
+            android:layout_marginBottom="30dp"
+            android:textSize="20sp" />
+
+
+        <ToggleButton
+            android:id="@+id/onoffButton"
+            android:layout_gravity="center"
+            android:layout_width="300dp"
+            android:layout_height="90dp"
+            android:text="ToggleButton"
+            android:textOff="도어락 버튼"
+            android:background="@color/colorMyBlue"
+            android:textStyle="bold"
+            android:textSize="30dp">
+
+        </ToggleButton>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/returnButton"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Return"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:background="@color/colorMyBBlue"/>
+
+</LinearLayout>

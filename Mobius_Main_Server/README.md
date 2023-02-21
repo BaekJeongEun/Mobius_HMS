@@ -14,8 +14,7 @@ node thyme.js로 서버를 열고
 tas_pir에 들어가서 node app.js를 실행시키면
 모션감지센서에서 감지된 동작의 날짜와 시간이 모비우스 웹포탈에 등록됩니다.
 
-
-![HMS_Mobius_ppt(최종)-01](https://user-images.githubusercontent.com/53815335/162928932-1c41626d-9c58-4604-aeb4-07b0ac9974ab.png)
+![캡처](https://user-images.githubusercontent.com/53815335/220343676-26ac437d-7dc7-4bac-94ea-9c7287c115a4.PNG)
 ![HMS_Mobius_ppt(최종)-02](https://user-images.githubusercontent.com/53815335/162929250-ee12683f-65cd-44bb-a168-39227e0590aa.png)
 ![HMS_Mobius_ppt(최종)-03](https://user-images.githubusercontent.com/53815335/162929259-75ba2609-ecaf-42d4-8fec-f1f3675b0715.png)
 ![HMS_Mobius_ppt(최종)-04](https://user-images.githubusercontent.com/53815335/162929260-ad5142ce-7a37-454a-a2c1-1703bb3fb1be.png)
